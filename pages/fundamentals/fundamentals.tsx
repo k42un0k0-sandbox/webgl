@@ -1,6 +1,6 @@
-import Canvas from "@/modules/fundamentals/fundamentals/Canvas";
-import fragment from "@/modules/fundamentals/fundamentals/shaders/fragment.glsl";
-import vertex from "@/modules/fundamentals/fundamentals/shaders/vertex.glsl";
+import Canvas from "@/pagesComponents/fundamentals/fundamentals/Canvas";
+import fragment from "@/pagesComponents/fundamentals/fundamentals/shaders/fragment.glsl";
+import vertex from "@/pagesComponents/fundamentals/fundamentals/shaders/vertex.glsl";
 
 export default function DrawImages() {
   return (
